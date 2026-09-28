@@ -1,0 +1,6 @@
+{
+  "name": "El Paleolítico — Պալեոլիթ | Estudio Interactivo",
+  "description": "Aplicación interactiva para estudiar El Paleolítico en español y armenio con traducción al hacer clic, preguntas y vocabulario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

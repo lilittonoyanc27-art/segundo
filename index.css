@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #0c0e12;
+    color: #f1f5f9;
+  }
+}
+
+.font-serif-title {
+  font-family: 'Cinzel', serif;
+}
+
+.font-armenian {
+  font-family: 'Noto Sans Armenian', 'Plus Jakarta Sans', sans-serif;
+}
+
